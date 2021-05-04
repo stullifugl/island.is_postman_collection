@@ -20,4 +20,4 @@ That will generate the new collection to be sent to the customer in the **collec
 
 Next you need to import your generated collection to postman
 
-![postman_import_button](./pictures/postman_import_button.png)
+![postman_import_button](pictures/postman_import_button.png)
