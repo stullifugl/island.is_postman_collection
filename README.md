@@ -12,9 +12,12 @@ the users
 To simulate the process add your own variable values to the file variables.txt
 Only change the values on the right side of the character ':'
 
-Once you have done that you can run the python program by opening a shell of your choosing with the following command
+Once you have done that you can run the python program by opening a shell of your choosing with the following command **py replace_variables.py**
 
+That will generate the new collection to be sent to the customer in the **collections_created** folder
 
-### py replace_variables.py
+## Postman
 
+Next you need to import your generated collection to postman
 
+![postman_import_button](./pictures/postman_import_button.png)
