@@ -35,4 +35,4 @@ The **Variables** tab stores the variables that the customer will create during 
 
 If all the variables are filled in correcly, you should be able to create a token by pressing the **Get New Access Token** button
 
-![postman_import_button](pictures/upload_file.png)
+![postman_import_button](pictures/authorization.png)
