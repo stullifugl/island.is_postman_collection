@@ -46,17 +46,17 @@ You can also go to https://jwt.io and see the payload in the **Access Token** an
 
 ### UserInfo endpoint
 
-In the Postman collection there is one function, the userinfo endpoint. 
+In the Postman collection there is one function, the userinfo endpoint.
 
-It sends you back data about the user that generated the token. 
+It sends you back data about the user that generated the token.
 
-A response could look like this 
+A response could look like this
 
 ```json
 {
-    "sub": "F0BEBA06ACF3012C5358D9E2B4DED50247A13CD626436E0D51293B93A6BF2FE5",
-    "name": "Jón Jónsson",
-    "nationalId": "0123456789",
-    "nat": "IS"
+  "sub": "F0BEBA06ACF3012C5358D9E2B4DED50247A13CD626436E0D51293B93A6BF2FE5",
+  "name": "Jón Jónsson",
+  "nationalId": "0123456789",
+  "nat": "IS"
 }
 ```
