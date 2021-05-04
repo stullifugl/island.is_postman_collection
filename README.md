@@ -37,3 +37,13 @@ The **Variables** tab stores the variables that the customer will create during 
 If all the variables are filled in correctly, you should be able to create a token by pressing the **Get New Access Token** button
 
 ![authorization](pictures/authorization.PNG)
+
+If you were successful in creating a token, press the **Use Token** button to use the token for the next part
+
+![authorization](pictures/token_generated.png)
+
+You can also go to https://jwt.io and see the payload in the **Access Token** and **id_token**
+
+### UserInfo endpoint
+
+In the Postman collection there is one function
