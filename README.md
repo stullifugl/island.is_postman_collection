@@ -14,4 +14,7 @@ Only change the values on the right side of the character ':'
 
 Once you have done that you can run the python program by opening a shell of your choosing with the following command
 
-**py replace_variables.py**
+
+### py replace_variables.py
+
+
