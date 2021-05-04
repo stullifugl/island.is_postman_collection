@@ -20,4 +20,19 @@ That will generate the new collection to be sent to the customer in the **collec
 
 Next you need to import your generated collection to postman
 
-![postman_import_button](pictures/postman_import_button.PNG)
+![postman_import_button](pictures/postman_import_button.png)
+
+Upload the created postman_collection file the python program generated and press the **Import** button
+
+![postman_import_button](pictures/upload_file.png)
+
+Hover over the created collection -> press the three dot sign and press the **Edit** button
+
+![postman_import_button](pictures/edit_button.png)
+
+The **Authorization** tab is the functionality for creating the token
+The **Variables** tab stores the variables that the customer will create during the application process and the development url
+
+If all the variables are filled in correcly, you should be able to create a token by pressing the **Get New Access Token** button
+
+![postman_import_button](pictures/upload_file.png)
