@@ -1,6 +1,6 @@
 client_name: skattur
 collection_name: skattur_auth
-url: https://identity-server.dev01.devland.is
+url: https://identity-server.some_ending
 redirect_url: http://localhost:4200/signin-oidc
-client_id: island-is-1
-client_secret: 
+client_id: some_client
+client_secret: secret
