@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "41b3b4cd-9410-4bc9-9ad5-1b6aaed2a7b1",
-		"name": "skattur_auth",
+		"name": "hrefnu_test",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -107,19 +107,19 @@
 	"variable": [
 		{
 			"key": "ids_url",
-			"value": "https://identity-server.some_ending"
+			"value": "https://identity-server.staging01.devland.is"
 		},
 		{
 			"key": "ids_redirect_url",
-			"value": "http://localhost:4200/signin-oidc"
+			"value": "https://postmantest/signin-oidc"
 		},
 		{
 			"key": "ids_client_id",
-			"value": "some_client"
+			"value": "postman-test"
 		},
 		{
 			"key": "ids_client_secret",
-			"value": "secret"
+			"value": ""
 		},
 		{
 			"key": "ids_scopes",

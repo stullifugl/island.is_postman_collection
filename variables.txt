@@ -1,6 +1,6 @@
-client_name: skattur
-collection_name: skattur_auth
-url: https://identity-server.some_ending
-redirect_url: http://localhost:4200/signin-oidc
-client_id: some_client
-client_secret: secret
+client_name: hrefna
+collection_name: hrefnu_test
+url: https://identity-server.staging01.devland.is
+redirect_url: https://postmantest/signin-oidc
+client_id: postman-test
+client_secret: 
